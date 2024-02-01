@@ -15,20 +15,23 @@ import { gsap } from "gsap";
 import html2canvas from "html2canvas";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAbn4iCEy5W9rSO-UiOmd_8Vbp9nRlkRCI",
 
-  authDomain: "nutrisnap-e6cf9.firebaseapp.com",
+  apiKey: "AIzaSyA4IDEswnf5vYb4NqYkECxTbYjM75bMoSw",
 
-  projectId: "nutrisnap-e6cf9",
+  authDomain: "datathonskinsnap.firebaseapp.com",
 
-  storageBucket: "nutrisnap-e6cf9.appspot.com",
+  projectId: "datathonskinsnap",
 
-  messagingSenderId: "169090435206",
+  storageBucket: "datathonskinsnap.appspot.com",
 
-  appId: "1:169090435206:web:45f0d96b834969ca236907",
+  messagingSenderId: "715950124501",
 
-  measurementId: "G-VHL1DB60YR",
+  appId: "1:715950124501:web:969d7c9e58dd190d8f615c",
+
+  measurementId: "G-TSHKZFET0G"
+
 };
+
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 

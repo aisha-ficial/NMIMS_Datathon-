@@ -77,11 +77,11 @@ const Footer = () => {
                   alt="nutrisnap"
                   className="px-2 f"
                 />
-                Nutrisnap
+               GlowUp-Essentials
               </h6>
               <p>
-                Welcome to NutriSnap, your go-to destination for personalized
-                nutrition and wellness solutions. At NutriSnap, we believe in
+                Welcome to GlowUp-Essentials, your go-to destination for personalized
+                nutrition and wellness solutions. At GlowUp-Essentials, we believe in
                 the transformative power of healthy living and the impact it can
                 have on your overall well-being.
               </p>
