@@ -34,6 +34,7 @@ GlowUp-Essentials is an open-source project driven by a community passionate abo
 
 frontend is a next-app 
 so clone the repo 
-```cd skincare-essentials
+```
+cd skincare-essentials
 npm i
-npm run dev ```
+npm run dev 
